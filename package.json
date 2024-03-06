@@ -1,5 +1,5 @@
 {
-  "name": "com.ahengine.uscreensubmodules",
+  "name": "com.playdive.uscreensubmodules",
   "version": "1.0.0",
   "displayName": "UScreens Sub Modules",
   "description": "UScreens Sub Modules",
@@ -10,6 +10,6 @@
   },
   "type": "library",
   "dependencies": {
-    "com.ahengine.uscreens": "1.0.0"
+    "com.playdive.uscreens": "1.0.0"
   }
 }
